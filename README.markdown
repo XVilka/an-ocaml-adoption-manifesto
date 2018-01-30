@@ -120,7 +120,7 @@ Issues Noted by Others (Send a PR to add one!)
    exercices.
 
 7. Create a repository listing useful libraries not yet developed. It
-   could be useful for student projects, GSOC or simply inspirations.
+   could be useful for student projects, GSoC or simply inspirations.
 
 8. More tutorials in languages other than English (It is usually more
    comfortable to learn in one's own language).
@@ -144,6 +144,8 @@ Issues Noted by Others (Send a PR to add one!)
 
 13. Provide a collection of examples and tutorials as Jupyter notebooks,
     using OCaml-Jupyter, the OCaml kernel for Jupyter (see point 5 above).
+
+14. Better graphical toolkits bindings (GTK+, Qt, etc). Currently Lablgtk [doesn't even has GTK+ 3 support](https://github.com/garrigue/lablgtk/issues/2). And [Qt bindings](https://github.com/Kakadu/lablqml) support only QtQuick (QML) for now.
 
 Optimism
 =========
